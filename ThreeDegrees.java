@@ -1,4 +1,3 @@
-package edu.rit.cs.graph;
 
 import java.io.FileNotFoundException;
 import java.util.Collection;
